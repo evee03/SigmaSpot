@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>SigmaSpot</title>
+    <link rel="stylesheet" href="../CSS/graj.css">
+</head>
+<body>
+<header>
+    <div class="logo"><img src="../images/logo_mniejsze.png" alt="logo"></div>
+    <div class="hamburger">
+        <div class="line"></div>
+        <div class="line"></div>
+        <div class="line"></div>
+    </div>
+    <nav class="nav-bar">
+        <ul>
+            <li><a href="graj.html" class="active">Graj</a><i></i></li>
+            <li><a href="ranking.html" >Ranking</a><i></i></li>
+            <li><a href="ostronie.html" >O stronie</a><i></i></li>
+            <li><a href="profil.html" >Profil</a><i></i></li>
+        </ul>
+    </nav>
+</header>
+<div class="block">
+    <div class="riddle">
+        <p id="riddle">Pytania</p>
+    </div>
+    <form class="box-answers">
+        <label id="answer-label" for="answer">Odpowiedź:</label>
+        <div class="email-input-container">
+            <input type="text" name="answer" id="answer" class="form-control" placeholder="Wpisz swoją odpowiedź"/>
+            <div class="error"></div>
+        </div>
+        <div class="check-answer">
+            <button  id="check" class="check-button">
+                Sprawdzam!
+            </button>
+        </div>
+        <div id="points" class="points">Punkty: 0</div>
+    </form>
+</div>
+<footer class="footer">
+    Autor: Ewelina Musińska
+</footer>
+<script src="../JS/graj.js"></script>
+</body>
+</html>

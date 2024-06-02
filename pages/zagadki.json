@@ -1,0 +1,62 @@
+[
+  {
+    "numer": 1,
+    "pytanie": "Co to jest, ma klawiaturę, ale nie pisze, a ma mysz, ale nie kąsa?",
+    "odpowiedz": "Komputer",
+    "punkty": 5
+  },
+  {
+    "numer": 2,
+    "pytanie": "Co jest pełne dziur, a mimo to trzyma wodę?",
+    "odpowiedz": "Dzban",
+    "punkty": 7
+  },
+  {
+    "numer": 3,
+    "pytanie": "Co to jest: im więcej zjada, tym bardziej rośnie?",
+    "odpowiedz": "Ogień",
+    "punkty": 6
+  },
+  {
+    "numer": 4,
+    "pytanie": "Co jest zawsze na koniec?",
+    "odpowiedz": "C",
+    "punkty": 4
+  },
+  {
+    "numer": 5,
+    "pytanie": "Co ma klucze, ale nie otwiera żadnych drzwi?",
+    "odpowiedz": "Pianino",
+    "punkty": 6
+  },
+  {
+    "numer": 6,
+    "pytanie": "Co jest tak lekkie, że nawet najcięższy mężczyzna nie jest w stanie utrzymać przez długi czas?",
+    "odpowiedz": "Oddech",
+    "punkty": 8
+  },
+  {
+    "numer": 7,
+    "pytanie": "Co zawsze przychodzi, ale nigdy nie zostaje?",
+    "odpowiedz": "Jutro",
+    "punkty": 5
+  },
+  {
+    "numer": 8,
+    "pytanie": "Co jest zawsze na środku maja?",
+    "odpowiedz": "A",
+    "punkty": 6
+  },
+  {
+    "numer": 9,
+    "pytanie": "Co to jest, lecz nie może być widziane, a nigdy nie jest tych samych dwóch?",
+    "odpowiedz": "Jutro",
+    "punkty": 7
+  },
+  {
+    "numer": 10,
+    "pytanie": "Kiedy jesteś na pierwszym miejscu, wydaje się, że jesteś na końcu. Co to jest?",
+    "odpowiedz": "Kolejka",
+    "punkty": 8
+  }
+]
