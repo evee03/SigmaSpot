@@ -59,6 +59,8 @@ Aplikacja wykorzystuje format JSON do przechowywania danych w lokalnym magazynie
 
 ## Nagranie demonstracyjne
 
+[Zobacz nagranie](https://youtu.be/BqK9dJlV08E)
+
 ## Autor
 
 Ewelina Musińska 
